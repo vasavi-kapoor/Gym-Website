@@ -1,0 +1,64 @@
+*{
+	scroll-behavior: smooth;
+}
+
+
+
+.h1{
+	text-align: center;
+	font-weight: bolder;
+	font-size: 30px;
+}
+
+.blue{
+	background-color: black!important;
+
+}
+
+.anchor:hover{
+	color: blue!important;
+	cursor: pointer;
+}
+
+.bt:hover{
+	background-color: blue!important;
+	box-shadow: 2px 2px 5px 2px solid blue!important;
+	color: white;
+}
+
+.banner {
+	box-shadow: 5px 5px 2px 2px lightgrey;
+}
+
+.banner:hover{
+	transform: scale(0.9);
+	transition: 0.9s;
+}
+
+.img{
+	transition: 0.9s;
+}
+
+
+.img:hover{
+	transform: scale(0.9);
+	border-radius: 30px;
+}
+
+.img1{
+	transition: 0.9s;
+}
+
+.img1:hover{
+	transform: scale(1.4);
+	border-radius: 30px;
+}
+
+/*#testimonial{
+	width: 100%!important;
+	height: 450px!important;
+	background: url('../images/11.jpg')!important;
+	background-size: cover!important;
+	background-repeat: no-repeat!important;
+
+}*/
